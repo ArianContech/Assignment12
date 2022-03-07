@@ -8,7 +8,7 @@ PriceChangeArr = []
 PriceChangePercentArr = []
 
 # Change This Address To your Proper Address and in windows use / instead of \ like "c:/uni/arian/FinancialData.csv"
-csvPath = 'F:/University/Tools & Techniques for Data Science/Day7/Assignment12/FinancialData.csv'
+csvPath = 'FinancialData.csv'
 
 # we need to Set a Loop for get data permanently
 while(True):
